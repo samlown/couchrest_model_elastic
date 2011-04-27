@@ -1,0 +1,10 @@
+.DS_Store
+html/*
+pkg
+*.swp
+.rvmrc*
+.bundle
+couchdb.std*
+*.*~
+Gemfile.lock
+spec.out

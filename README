@@ -1,0 +1,11 @@
+
+= CouchRest Model Elastic
+
+*WARNING:* Under construction, please do not use (yet)!!
+
+ElasticSearch support for the CouchRest Model library. Uses [Slingshot](http://karmi.github.com/slingshot/)'s
+powerful DSL but uses a more familiar approach for CouchRest users that fits in well with other CouchDB views.
+
+
+Copyright 2011 Samuel Lown
+
